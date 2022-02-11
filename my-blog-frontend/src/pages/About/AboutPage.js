@@ -12,7 +12,7 @@ function AboutPage(props) {
             <br /><br /><br /><br />
             <h1 id='title'> About Me </h1>
             <br />
-            <h1 id='name'> Shobith Chandran k </h1>
+            <h1 id='name'>Aanchu K </h1>
             <div className="image-container">
                 <img src={me} alt="me" height="390" width="350" />
             </div>
@@ -46,10 +46,10 @@ function AboutPage(props) {
             <br /><br /><br /><br />
                 <center>
                     <h1> Github </h1>
-                    <a href={url1}>Click here</a>
+                    {/* <a href={url1}>Click here</a> */}
                     <br /><br /><br /><br />
                     <h1> Linkedin </h1>
-                    <a href={url2}>Click here</a>
+                    {/* <a href={url2}>Click here</a> */}
                     <br /><br /><br /><br />
                 </center>
             </div>
