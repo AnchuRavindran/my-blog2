@@ -6,7 +6,7 @@ function Header(props) {
     return (
         <div>
             <nav className="header">
-                <h2 className="logo">GWNIVR's Blog</h2>
+                <h2 className="logo">My Blog</h2>
                 <div className="articles">
                     <Link className="link" to="/home">Home</Link>
                     <Link className="link" to="/about">About</Link>
