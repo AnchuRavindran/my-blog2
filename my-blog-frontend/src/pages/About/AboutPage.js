@@ -5,8 +5,8 @@ import { Link } from 'react-router-dom';
 
 
 function AboutPage(props) {
-    const url1 = "https://github.com/ShobithChandran";
-    const url2 = "https://www.linkedin.com/in/shobith-chandran-k-63a072199/";
+    // const url1 = "https://github.com/ShobithChandran";
+    // const url2 = "https://www.linkedin.com/in/shobith-chandran-k-63a072199/";
     return(
         <div >
             <br /><br /><br /><br />
